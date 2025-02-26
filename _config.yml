@@ -19,5 +19,6 @@ github: https://github.com/edd19
 linkedin: https://www.linkedin.com/in/eddy-ndizera-277181105/
 email: eddyndizera@ndizera.com
 
-cv: "assets/pdf/cv_ndizera_eddy.pdf"
+cv: "/assets/pdf/cv_ndizera_eddy_english.pdf"
+cv_french: "/assets/pdf/cv_ndizera_eddy_francais.pdf"
 
