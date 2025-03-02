@@ -22,3 +22,20 @@ email: eddyndizera@ndizera.com
 cv: "/assets/pdf/cv_ndizera_eddy_english.pdf"
 cv_french: "/assets/pdf/cv_ndizera_eddy_francais.pdf"
 
+schema_markup: '{
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ndizera Eddy",
+        "image": "https://www.ndizera.com/assets/img/profile.jpg",
+        "description": "Senior Freelance Software Developer",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Brussels",
+          "addressCountry": "Belgium"
+        },
+        "email": "{{ site.email }}",
+        "jobTitle": "Freelance Senior Software Developer",
+        "skills": "Python, Django, Full-Stack Development",
+        "url": "https://www.ndizera.com"
+      }'
+
